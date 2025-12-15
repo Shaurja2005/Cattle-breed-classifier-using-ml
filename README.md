@@ -75,6 +75,12 @@ pip install torch torchvision
 - **Input Size**: 224x224 pixels
 - **Optimizer**: Adam (Learning Rate: 0.001)
 - **Loss Function**: CrossEntropyLoss
+## Results
+
+| Metric | Accuracy |
+| :--- | :--- |
+| **Validation Accuracy** | *84.054%* |
+| **Test Accuracy** | *77.16%* |
 
 ## License
 

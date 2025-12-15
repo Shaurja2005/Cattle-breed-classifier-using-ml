@@ -23,7 +23,10 @@ train/
 valid/
 test/
 
+# Virtual Environment (specific to your project)
+cowclassifier/
+
 # Model checkpoints
-*.pth
-*.pt
-*.pkl
+# *.pth
+# *.pt
+# *.pkl
